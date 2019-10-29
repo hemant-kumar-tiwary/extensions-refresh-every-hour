@@ -1,6 +1,6 @@
 {
   "name": "Notify Every Hour",
-  "version": "1.2",
+  "version": "1.4",
   "description": "Alert every hour for refesh!",
   "permissions": ["alarms"],
   "background": { 
